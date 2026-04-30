@@ -1,6 +1,4 @@
 # excel-dashboard-learning
-
-# Excel Dashboard Learning
 This repository contains my practice work on Excel dashboards.
 
 ## 📊 Dashboards Included:
